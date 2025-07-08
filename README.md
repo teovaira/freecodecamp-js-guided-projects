@@ -1,1 +1,1 @@
-# my-js-projects
+# freecodecamp-js-guided-projects
